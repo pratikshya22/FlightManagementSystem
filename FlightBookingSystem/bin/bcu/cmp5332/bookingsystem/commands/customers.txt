@@ -1,0 +1,8 @@
+1,Prakash Gajurel,123456789,pgajurel@gmail.com
+2,Pooja Shrestha,987654321,pooh@gmail.com
+3,Rita Rai,555555555,rai@gmail.com
+4,Pragya Gajurel,777777777,gajurelpragya@gmail.com
+5,Pratikshya Karki,888888888,Pratikarki@gmail.com
+6,Renu Tamang,9876309843,rt@gmail.com
+7,Mamta Ghimire,9883246253,mamta@gmail.com
+8,Anjali Thapa,872947983,anjali@gmail.com

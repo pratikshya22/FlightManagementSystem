@@ -1,0 +1,9 @@
+1,ABC123,London,Paris,2024-03-11,10,7500.0
+2,DEF456,Paris,London,2024-03-12,8,8000.0
+3,GHI789,New York,Los Angeles,2024-03-13,6,9000.0
+4,JKL012,Tokyo,Beijing,2024-03-14,4,9500.0
+5,MNO345,Sydney,Melbourne,2024-03-15,2,10000.0
+6,KLM788,Nepal,Australia,2024-06-27,7,34000.0
+7,ABC123,London,Paris,2024-07-08,4,22500.0
+8,8,Nepal,Dubai,2024-07-20,15,175000.0
+9,11,kathamndu,Tumlingtar,2024-06-30,20,8000.0
